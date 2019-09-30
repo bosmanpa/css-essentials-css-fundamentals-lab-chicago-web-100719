@@ -21,6 +21,10 @@ figcaption {
   text-align: center;
 }
 
-p#featuredproperty {
+#featuredproperty {
+  width: 800px;
+  text-align: center;
+}
+#details {
   
 }
