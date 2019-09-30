@@ -28,6 +28,9 @@ figcaption {
 .details {
   display: block;
   float: left;
+  background-color: #00b3e6;
+  text-align: center;
+  
 }
 
 
