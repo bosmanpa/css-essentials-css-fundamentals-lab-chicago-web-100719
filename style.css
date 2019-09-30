@@ -16,4 +16,6 @@ a {
   padding-left: 10px;
   background-color: #00b3e6;
 }
-fig
+figcaption {
+  font-size: 8
+}
